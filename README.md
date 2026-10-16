@@ -6,4 +6,6 @@ Este repositorio contiene ejemplos y explicaciones sobre como trabajar con git d
 
 ## Aprendizajes
 
-[sobre-mi]
+- [sobre mi](sobre-mi.md)
+
+## Tecnoligías
